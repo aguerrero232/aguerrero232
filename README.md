@@ -5,7 +5,7 @@
 
 ## About Me :man_technologist:	
 
- I am a graduate of the University of Texas at San Antonio, go Runners 🤙! I love spending time with my pets, building computers, gaming online, or the table top, watching comedy, and trying new cuisine. I'm interested in developing impactful, scaleable, and highly available applications. My goal is to be someone that others would consider to be a role model or hero. ✨
+ I am a graduate of the University of Texas at San Antonio, go Runners!🤙 I love spending time with my pets, building computers, gaming online, or the table top, watching comedy, and trying new cuisine. I'm interested in developing impactful, scaleable, and highly available applications. My goal is to be someone that others would consider to be a role model or hero. ✨
 
 - 🔭 I’m working as an Infrastructure Automation Engineer where I am solidifying my skills in python, kubernetes, ansible and many other tools.
 - 🌱 I’m currently studying to get the Certified Kubernetes Application Developer certificate 
