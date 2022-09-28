@@ -28,7 +28,7 @@
 
 ## Contact :mailbox_with_mail:	
 - [Linkedin](https://www.linkedin.com/in/arielguerrero1012/)
-- email: arielguerrero1012@gmail.com
+- arielguerrero1012@gmail.com
 
 <br>
 
