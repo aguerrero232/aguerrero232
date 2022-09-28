@@ -1,13 +1,14 @@
-![]()
+![](header.gif)
+
 
 ## About Me :man_technologist:	
 
- I am a graduate of the University of Texas at San Antonio, go Runners 🤙! I love spending time with my pets, building computers, gaming online ,or the table top, and trying new cuisine. I'm interested in developing impactful, scaleable, and highly available applications. My goal is to be someone that others would consider to be a role model or hero.  
+ I am a graduate of the University of Texas at San Antonio, go Runners 🤙! I love spending time with my pets, building computers, gaming online, or the table top, watching comedy, and trying new cuisine. I'm interested in developing impactful, scaleable, and highly available applications. My goal is to be someone that others would consider to be a role model or hero. ✨
 
 - 🔭 I’m working as an Infrastructure Automation Engineer where I am solidifying my skills in python, kubernetes, ansible and many other tools.
 - 🌱 I’m currently studying to get the Certified Kubernetes Application Developer certificate 
 - 👯 I’m looking to collaborate on automation tools and applications utilizing ai and ml  
-- ⚡ Fun fact: I go by my last name, Guerrero. It means warrior in Spanish. 
+- ⚡ Fun fact: I go by my last name, Guerrero, it means warrior in Spanish. You cant forget someone with a name like that. 😀
 
 ## Skills :hammer_and_wrench:		
 * apis: [retro pokemon api](https://github.com/aguerrero232/retro_pokemon_game_api), and [hotel reservation api](https://github.com/aguerrero232/hotel-reservations-api)
