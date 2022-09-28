@@ -10,9 +10,9 @@
 - ⚡ Fun fact: I go by my last name, Guerrero. It means warrior in Spanish. 
 
 ## Skills :hammer_and_wrench:		
-* apis: [retro pokemon api](https://github.com/aguerrero232/retro_pokemon_game_api) & [hotel reservation api](https://github.com/aguerrero232/hotel-reservations-api)
-* AI and machine learning: [deep q learning agent with nueral network](https://github.com/aguerrero232/deep-q-learning-agent-nn) & [pokemon machine learning](https://github.com/aguerrero232/pokemon-data-analysis-and-prediction)
-* cloud technologies: [pull dean video archiving appliation](https://github.com/aguerrero232/pull-den) & [about me](https://github.com/aguerrero232/cloudfront-highly-available-web-app) & [serverless calculator](https://github.com/aguerrero232/serverless-calculator-and-ps)
+* apis: [retro pokemon api](https://github.com/aguerrero232/retro_pokemon_game_api), and [hotel reservation api](https://github.com/aguerrero232/hotel-reservations-api)
+* AI and machine learning: [deep q learning agent with nueral network](https://github.com/aguerrero232/deep-q-learning-agent-nn), and [pokemon machine learning](https://github.com/aguerrero232/pokemon-data-analysis-and-prediction)
+* cloud technologies: [pull den video archiving appliation](https://github.com/aguerrero232/pull-den), [about me web app](https://github.com/aguerrero232/cloudfront-highly-available-web-app), and [serverless calculator](https://github.com/aguerrero232/serverless-calculator-and-ps)
 * kubernetes: [kubernetes zero to pro](https://github.com/aguerrero232/kubernetes-zero-to-pro)
 * and much more 😁
 
