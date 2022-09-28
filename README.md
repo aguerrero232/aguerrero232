@@ -2,24 +2,23 @@
 
 ## About Me :man_technologist:	
 
-I am a Senior Computer Science student focusing on software engineering and currently working as a USAA SWE intern for the summer.
-I am interested in building cool impactful software products and aspire to help found a startup one day.
+ I am a graduate of the University of Texas at San Antonio, go Runners 🤙! I love spending time with my pets, building computers, gaming online ,or the table top, and trying new cuisine. I'm interested in making highly scaleable and highly available applications with high impact. My goal is to be someone would consider to be a role model or hero.  
 
-- 🔭 I’m currently working on a making a [computer science question API with a website for it](https://github.com/Commando-Brando/the-hub) that links to my [discord bot](https://github.com/Commando-Brando/hopperbot)
-- 🌱 I’m currently learning Docker, Kubernetes, & React this summer
-- 👯 I’m looking to collaborate on web & mobile development 
-- ⚡ Fun fact: recently won 3rd place in the CodePath Nationals Mobile App Compeititon Fall 2021 for my team's Android app [EventWithMe](https://github.com/EventWithMe/EventWithMe)
+- 🔭 I’m working as an Infrastructure Automation Engineer where I am solidifying my skills in python, kubernetes, ansible and many other tools.
+- 🌱 I’m currently studying to get the Certified Kubernetes Application Developer certificate 
+- 👯 I’m looking to collaborate on automation tools and applications utilizing ai and ml  
+- ⚡ Fun fact: I go by my last name, Guerrero. It means warrior in Spanish. 
 
 ## Skills :hammer_and_wrench:		
-* Java ([Native Android Development](https://github.com/Commando-Brando/SimpleTweet) - [JavaFx](https://github.com/WilliamG123/HotelManagementSystem) - [general development](https://github.com/Commando-Brando/Knapsack))
-* [C](https://github.com/Commando-Brando/C-Skills) 
-* [Python](https://github.com/Commando-Brando/hopperbot) 
-* Bash
-* [HTML/CSS](https://github.com/Commando-Brando/The-Hub) & [Bootstrap](https://github.com/Commando-Brando/SolarSystem)
+* apis: [retro pokemon api]() & [hotel reservation api](https://github.com/aguerrero232/hotel-reservations-api)
+* AI and machine learning: [deep q learning agent]() & [pokemon machine learning]()
+* cloud technologies: [pull dean video archiving appliation]() & [cloud formation non professional about me]() & [serverless calculator]()
+* kubernetes: [kubernetes zero to pro]()
+* and much more 😁
 
 ## Contact :mailbox_with_mail:	
-- email: arielguerrero1012@gmail.com
 - [Linkedin](https://www.linkedin.com/in/arielguerrero1012/)
+- email: arielguerrero1012@gmail.com
 
 ## Stats :chart_with_upwards_trend:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aguerrero232&show_icons=true&locale=en" alt="guerrero-stats" /></p>
