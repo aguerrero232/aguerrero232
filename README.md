@@ -2,7 +2,7 @@
 
 ## About Me :man_technologist:	
 
- I am a graduate of the University of Texas at San Antonio, go Runners 🤙! I love spending time with my pets, building computers, gaming online ,or the table top, and trying new cuisine. I'm interested in making highly scaleable and highly available applications with high impact. My goal is to be someone would consider to be a role model or hero.  
+ I am a graduate of the University of Texas at San Antonio, go Runners 🤙! I love spending time with my pets, building computers, gaming online ,or the table top, and trying new cuisine. I'm interested in developing impactful, scaleable, and highly available applications. My goal is to be someone that others would consider to be a role model or hero.  
 
 - 🔭 I’m working as an Infrastructure Automation Engineer where I am solidifying my skills in python, kubernetes, ansible and many other tools.
 - 🌱 I’m currently studying to get the Certified Kubernetes Application Developer certificate 
@@ -10,10 +10,10 @@
 - ⚡ Fun fact: I go by my last name, Guerrero. It means warrior in Spanish. 
 
 ## Skills :hammer_and_wrench:		
-* apis: [retro pokemon api]() & [hotel reservation api](https://github.com/aguerrero232/hotel-reservations-api)
-* AI and machine learning: [deep q learning agent]() & [pokemon machine learning]()
-* cloud technologies: [pull dean video archiving appliation]() & [cloud formation non professional about me]() & [serverless calculator]()
-* kubernetes: [kubernetes zero to pro]()
+* apis: [retro pokemon api](https://github.com/aguerrero232/retro_pokemon_game_api) & [hotel reservation api](https://github.com/aguerrero232/hotel-reservations-api)
+* AI and machine learning: [deep q learning agent with nueral network](https://github.com/aguerrero232/deep-q-learning-agent-nn) & [pokemon machine learning](https://github.com/aguerrero232/pokemon-data-analysis-and-prediction)
+* cloud technologies: [pull dean video archiving appliation](https://github.com/aguerrero232/pull-den) & [about me](https://github.com/aguerrero232/cloudfront-highly-available-web-app) & [serverless calculator](https://github.com/aguerrero232/serverless-calculator-and-ps)
+* kubernetes: [kubernetes zero to pro](https://github.com/aguerrero232/kubernetes-zero-to-pro)
 * and much more 😁
 
 ## Contact :mailbox_with_mail:	
