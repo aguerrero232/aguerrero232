@@ -18,8 +18,8 @@ I am interested in building cool impactful software products and aspire to help 
 * [HTML/CSS](https://github.com/Commando-Brando/The-Hub) & [Bootstrap](https://github.com/Commando-Brando/SolarSystem)
 
 ## Contact :mailbox_with_mail:	
--  I’m looking to collaborate on communuity open source, private monetary projects, & compete in Hackathons
--  How to reach me: [Linkedin](https://www.linkedin.com/in/brandon-muller/)
+-  I’m looking to collaborate on communuity open source, private monetary projects, and compete in Hackathons
+-  How to reach me: [Linkedin](https://www.linkedin.com/in/arielguerrero1012/))
 
 ## Stats :chart_with_upwards_trend:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aguerrero232&show_icons=true&locale=en" alt="guerrero-stats" /></p>
