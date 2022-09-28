@@ -22,7 +22,7 @@ I am interested in building cool impactful software products and aspire to help 
 -  How to reach me: [Linkedin](https://www.linkedin.com/in/brandon-muller/)
 
 ## Stats :chart_with_upwards_trend:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=commando-brando&show_icons=true&locale=en" alt="commando-brando" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aguerrero232&show_icons=true&locale=en" alt="guerrero-stats" /></p>
 
 
 <!--
