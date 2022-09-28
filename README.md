@@ -18,7 +18,7 @@ I am interested in building cool impactful software products and aspire to help 
 * [HTML/CSS](https://github.com/Commando-Brando/The-Hub) & [Bootstrap](https://github.com/Commando-Brando/SolarSystem)
 
 ## Contact :mailbox_with_mail:	
-- [email](arielguerrero1012@gmail.com)
+- email: arielguerrero1012@gmail.com
 - [Linkedin](https://www.linkedin.com/in/arielguerrero1012/)
 
 ## Stats :chart_with_upwards_trend:
