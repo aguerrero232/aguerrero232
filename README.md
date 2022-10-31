@@ -1,7 +1,7 @@
 ![](header.gif)
 
 
-<br>
+<br/>
 
 ## About Me :man_technologist:	
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I go by my last name, Guerrero, it means warrior in Spanish. You cant forget someone with a name like that. 😀
 
-<br>
+<br/>
 
 ## Skills :hammer_and_wrench:		
 * APIs: [retro pokemon api](https://github.com/aguerrero232/retro_pokemon_game_api), and [hotel reservation api](https://github.com/aguerrero232/hotel-reservations-api)
@@ -24,17 +24,19 @@
 * Kubernetes: [kubernetes zero to pro](https://github.com/aguerrero232/kubernetes-zero-to-pro)
 * and much more 😁
 
-<br>
+<br/>
 
 ## Contact :mailbox_with_mail:	
 - [Linkedin](https://www.linkedin.com/in/arielguerrero1012/)
 - arielguerrero1012@gmail.com
 
-<br>
+<br/>
 
 ## Stats :chart_with_upwards_trend:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aguerrero232&show_icons=true&locale=en" alt="guerrero-stats" /></p>
+
+<br/>
 
 ## ***Profile Views*** 👀
 
