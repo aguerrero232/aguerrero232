@@ -17,7 +17,7 @@
 
 <br/>
 
-## Skills :hammer_and_wrench:		
+## Projects 🚧	
 * APIs: [retro pokemon api](https://github.com/aguerrero232/retro_pokemon_game_api), and [hotel reservation api](https://github.com/aguerrero232/hotel-reservations-api)
 * AI and Machine Learning: [deep q learning agent with nueral network](https://github.com/aguerrero232/deep-q-learning-agent-nn), and [pokemon machine learning](https://github.com/aguerrero232/pokemon-data-analysis-and-prediction)
 * Cloud Technologies: [pull den video archiving appliation](https://github.com/aguerrero232/pull-den), [about me web app](https://github.com/aguerrero232/cloudfront-highly-available-web-app), and [serverless calculator](https://github.com/aguerrero232/serverless-calculator-and-ps)
