@@ -21,16 +21,15 @@
 * APIs: [retro pokemon api](https://github.com/aguerrero232/retro_pokemon_game_api), and [hotel reservation api](https://github.com/aguerrero232/hotel-reservations-api)
 * AI and Machine Learning: [deep q learning agent with nueral network](https://github.com/aguerrero232/deep-q-learning-agent-nn), and [pokemon machine learning](https://github.com/aguerrero232/pokemon-data-analysis-and-prediction)
 * Cloud Technologies: [pull den video archiving appliation](https://github.com/aguerrero232/pull-den), [about me web app](https://github.com/aguerrero232/cloudfront-highly-available-web-app), and [serverless calculator](https://github.com/aguerrero232/serverless-calculator-and-ps)
-* Kubernetes: [kubernetes zero to pro](https://aguerrero232.github.io/kubernetes-zero-to-pro/)
 * and much more 😁
 
 <br/>
 
 ## Guides 🗂️
 
-* [kubernetes zero to pro](https://aguerrero232.github.io/kubernetes-zero-to-pro/)
-* [ansible zero to pro](https://aguerrero232.github.io/ansible-zero-to-pro/)
-* [kafka zero to pro](https://aguerrero232.github.io/kafka-zero-to-pro/) 
+* [***kubernetes zero to pro***](https://aguerrero232.github.io/kubernetes-zero-to-pro/)
+* [***ansible zero to pro***](https://aguerrero232.github.io/ansible-zero-to-pro/)
+* [***kafka zero to pro***](https://aguerrero232.github.io/kafka-zero-to-pro/) 
 
 ## Contact :mailbox_with_mail:	
 - [Linkedin](https://www.linkedin.com/in/arielguerrero1012/)
