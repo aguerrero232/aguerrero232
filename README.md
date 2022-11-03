@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact: I go by my last name, Guerrero, it means warrior in Spanish. You cant forget someone with a name like that. 😀
 
-<br/>
 
 ## Projects 🚧	
 * APIs: [retro pokemon api](https://github.com/aguerrero232/retro_pokemon_game_api), and [hotel reservation api](https://github.com/aguerrero232/hotel-reservations-api)
@@ -23,7 +22,6 @@
 * Cloud Technologies: [pull den video archiving appliation](https://github.com/aguerrero232/pull-den), [about me web app](https://github.com/aguerrero232/cloudfront-highly-available-web-app), and [serverless calculator](https://github.com/aguerrero232/serverless-calculator-and-ps)
 * and much more 😁
 
-<br/>
 
 ## Guides 🗂️
 
@@ -35,7 +33,6 @@
 - [Linkedin](https://www.linkedin.com/in/arielguerrero1012/)
 - arielguerrero1012@gmail.com
 
-<br/>
 
 ## Stats :chart_with_upwards_trend:
 
