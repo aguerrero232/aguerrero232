@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on automation tools and applications utilizing ai and ml  
 
-- ⚡ Fun fact: I go by my last name, Guerrero, it means warrior in Spanish. You cant forget someone with a name like that. 😀
+- ⚡ Fun fact: I go by my last name, Guerrero, it means warrior in Spanish. You cant forget someone with a name like that. ⚔️🛡️
 
 
 ## Projects 🚧	
