@@ -26,6 +26,12 @@
 
 <br/>
 
+## Guides 🗂️
+
+* [kubernetes zero to pro](https://aguerrero232.github.io/kubernetes-zero-to-pro/)
+* [ansible zero to pro](https://aguerrero232.github.io/ansible-zero-to-pro/)
+* [kafka zero to pro](https://aguerrero232.github.io/kafka-zero-to-pro/) 
+
 ## Contact :mailbox_with_mail:	
 - [Linkedin](https://www.linkedin.com/in/arielguerrero1012/)
 - arielguerrero1012@gmail.com
