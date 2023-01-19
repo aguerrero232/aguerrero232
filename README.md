@@ -36,9 +36,11 @@
 
 ## Stats :chart_with_upwards_trend:
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aguerrero232&theme=dark&border_radius=3.2)](https://git.io/streak-stats)
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aguerrero232&show_icons=true&locale=en" alt="guerrero-stats" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aguerrero232&theme=dark&border_radius=3.2)](https://git.io/streak-stats)
 
 <br/>
 
