@@ -6,13 +6,9 @@
 ## About Me :man_technologist:	
 
  I am a graduate of the University of Texas at San Antonio, go Runners!🤙 I love spending time with my pets, building computers, gaming online, or the table top, watching comedy, and trying new cuisine. I'm interested in developing impactful, scalable, and highly available applications. My goal is to be someone that others would consider to be a role model or hero. ✨
-
 - 🔭 I’m working as an Infrastructure Automation Engineer where I am solidifying my skills in python, kubernetes, ansible, and many other tools while also delivering high impact workflows, applications, and automations.
-
 - 🌱 I’m currently studying advanced topics in Ansible; such as dynamic inventory
-
 - 👯 I’m looking to collaborate on automation tools and applications utilizing ai and ml  
-
 - ⚡ Fun fact: I go by my last name, Guerrero, it means **warrior** in Spanish. You cant forget someone with a name like that. ⚔️🛡️
 
 
