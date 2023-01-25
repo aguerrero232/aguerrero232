@@ -9,7 +9,7 @@
 
 - 🔭 I’m working as an Infrastructure Automation Engineer where I am solidifying my skills in python, kubernetes, ansible, and many other tools while also delivering high impact workflows, applications, and automations.
 
-- 🌱 I’m currently studying to get the Certified Kubernetes Application Developer certificate 
+- 🌱 I’m currently studying advanced topics in Ansible; such as dynamic inventory
 
 - 👯 I’m looking to collaborate on automation tools and applications utilizing ai and ml  
 
