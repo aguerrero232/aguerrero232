@@ -22,7 +22,7 @@
 * [***kafka zero to pro***](https://aguerrero232.github.io/kafka-zero-to-pro/) 
 
 ## Contact :mailbox_with_mail:	
-- [Linkedin](https://www.linkedin.com/in/arielguerrero1012/)
+<!-- [Linkedin](https://www.linkedin.com/in/arielguerrero1012/) -->
 - arielguerrero1012@gmail.com
 
 ## Stats :chart_with_upwards_trend:
