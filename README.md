@@ -25,7 +25,7 @@
 - arielguerrero1012@gmail.com
 
 ## Stats :chart_with_upwards_trend:
-[![Guerrero's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=aguerrero232)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Guerrero's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=aguerrero232&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ## ***Profile Views*** 👀
 <img src="https://profile-counter.deno.dev/aguerrero232/count.svg" /> 
