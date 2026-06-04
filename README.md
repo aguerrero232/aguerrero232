@@ -29,7 +29,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aguerrero232&theme=dark&border_radius=3.2)
 
 ## ***Profile Views*** 👀
-<img src="https://profile-counter.glitch.me/aguerrero232/count.svg" /> 
+<img src="https://profile-counter.deno.dev/aguerrero232/count.svg" /> 
 
 <!--  ![Github Stats](https://github-readme-stats.vercel.app/api?username=aguerrero232&show_icons=true&locale=en) -->
 
