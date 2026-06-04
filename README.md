@@ -26,7 +26,7 @@
 
 ## Stats :chart_with_upwards_trend:
 [![Guerrero's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=aguerrero232&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streakusername=aguerrero232&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streakusername=aguerrero232&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ## ***Profile Views*** 👀
 <img src="https://profile-counter.deno.dev/aguerrero232/count.svg" /> 
