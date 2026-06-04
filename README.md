@@ -25,7 +25,7 @@
 - arielguerrero1012@gmail.com
 
 ## Stats :chart_with_upwards_trend:
-![Guerrero's GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=aguerrero232&theme=transparent)    
+![Guerrero's GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=aguerrero232&theme=transparent)  
 ![Guerrero's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=aguerrero232&show_icons=true&theme=transparent)
 
 ## ***Profile Views*** 👀
