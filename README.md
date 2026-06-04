@@ -22,17 +22,11 @@
 * [***kafka zero to pro***](https://aguerrero232.github.io/kafka-zero-to-pro/) 
 
 ## Contact :mailbox_with_mail:	
-<!-- [Linkedin](https://www.linkedin.com/in/arielguerrero1012/) -->
 - arielguerrero1012@gmail.com
 
 ## Stats :chart_with_upwards_trend:
-![Guerrero's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguerrero232&show_icons=true)
+[![Guerrero's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguerrero232&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ***Profile Views*** 👀
 <img src="https://profile-counter.deno.dev/aguerrero232/count.svg" /> 
 
-<!--  ![Github Stats](https://github-readme-stats.vercel.app/api?username=aguerrero232&show_icons=true&locale=en) -->
-
-<!-- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aguerrero232&show_icons=true&locale=en" alt="guerrero-stats" /></p>
- -->
