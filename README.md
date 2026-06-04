@@ -26,7 +26,7 @@
 - arielguerrero1012@gmail.com
 
 ## Stats :chart_with_upwards_trend:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aguerrero232&theme=dark&border_radius=3.2)
+![Guerrero's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguerrero232&show_icons=true)
 
 ## ***Profile Views*** 👀
 <img src="https://profile-counter.deno.dev/aguerrero232/count.svg" /> 
